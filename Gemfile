@@ -60,6 +60,6 @@ group :production do
   gem 'pg', '0.18.4'
 end
 
-# Windows does not include zoneinfo files, so bundle the tzinfo-data gem
-gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
-ruby '2.3.0'
+# Windows does not include zoneinfo files, so bundle the tzinfo-data gem; code commented out below for compatability
+#gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+#ruby '2.3.0'
