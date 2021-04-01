@@ -165,7 +165,6 @@ GEM
 
 PLATFORMS
   ruby
-  x86_64-linux
 
 DEPENDENCIES
   bootstrap-sass (= 3.3.7)
@@ -192,4 +191,4 @@ RUBY VERSION
    ruby 2.3.0p0
 
 BUNDLED WITH
-   2.2.15
+   2.0.0.pre.3
